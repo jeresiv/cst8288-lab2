@@ -1,4 +1,51 @@
-studentId, firstName, lastName, courseId, courseName, term, year
-123546851, john, smith, cst8288, Software Design Patterns, WINTER, 2024
-9861534S2, jane, smyth, mat1101A, Intro to Math, FALL, 2025
-3215619823, michael, hill, cst8288, Software Design Patterns, SUMMER, 1955
+studentId,firstName,lastName,courseId,courseName,term,year
+123546851,john,smith,cst8288,Software Design Patterns,WINTER,2024
+234567890,emma,jones,ict7452,Database Systems,FALL,2019
+345678901,liam,williams,eng1023,English Composition,SUMMER,2018
+456789012,sophia,brown,psy6018,Abnormal Psychology,FALL,2022
+567890123,jacob,miller,cst3568,Web Development,SUMMER,2017
+678901234,olivia,davis,bus4401,Marketing Management,WINTER,2020
+789012345,william,wilson,mat5632,Calculus II,FALL,2016
+890123456,ava,taylor,cst9124,Advanced Algorithms,WINTER,2023
+901234567,ethan,moore,eng4559,Shakespearean Literature,SUMMER,2021
+012345678,isabella,jackson,psy8753,Developmental Psychology,WINTER,2015
+123546851,john,smith,cst8288,Software Design Patterns,WINTER,2024
+123456789,michael,white,cst2310,Data Structures and Algorithms,FALL,2014
+234567890,charlotte,thompson,bus6210,Financial Accounting,SUMMER,2019
+345678901,daniel,clark,eng7210,Modern Poetry,WINTER,2018
+456789012,amelia,rodriguez,mat6321,Linear Algebra,SUMMER,2022
+567890123,henry,lewis,cst7896,Machine Learning,FALL,2017
+678901234,sophia,lee,ict4521,Computer Networks,WINTER,2020
+789012345,alexander,walker,bus5218,Organizational Behavior,FALL,2016
+890123456,olivia,hall,cst6789,Software Engineering,SUMMER,2023
+901234567,david,allen,eng2451,American Literature,WINTER,2021
+01234S678,emily,scott,psy3952,Social Psychology,SUMMER,2015
+123456789,james,green,cst1234,Introduction to Programming,FALL,2014
+234567890,ava,adams,ict8996,Cloud Computing,WINTER,2019
+345678901,william,baker,bus7223,Strategic Management,SUMMER,2018
+456789012,mia,gomez,mat9745,Probability Theory,WINTER,2022
+567890123,logan,evans,cst4567,Computer Graphics,FALL,2017
+678901234,abigail,russell,engl6310,British Literature,SUMMER,2020
+789012345,noah,hill,psy8102,Cognitive Psychology,WINTER,2016
+890123456,emma,phillips,cst2345,Operating Systems,SUMMER,2023
+901234567,lucas,torres,ict5643,Software Testing and Quality Assurance,WINTER,2021
+012345678,oliver,ortiz,bus3389,Managerial Economics,SUMMER,2015
+123456789,sophia,carter,mat4876,Discrete Mathematics,WINTER,2014
+234567890,amelia,hernandez,cst5678,Computer Architecture,fall,2019
+345678901,ethan,morris,eng8991,World Literature,SUMMER,2018
+456789012,ava,diaz,psy7012,Forensic Psychology,WINTER,2022
+567890123,william,cooper,cst3456,Computer Security,FALL,2017
+678901234,olivia,richardson,ict7890,Internet of Things,WINTER,2020
+789012345,james,wood,eng1234,Introduction to Literature,SUMMER,2016
+890123456,charlotte,rivera,bus8721,Corporate Finance,WIN,1023
+901234567,michael,ward,cst8765,Database Management Systems,SUMMER,2021
+012345678,isabella,murphy,ict6321,Information Security Management,FALL,2015
+123456789,jacob,lopez,bus4543,Entrepreneurship,WINTER,2014
+234567890,emma,hall,mat9876,Statistics,SUMMER,2019
+3456789011,lucas,hughes,eng5432,Linguistics,FALL,2018
+456789012,olivia,gonzalez,psy4578,Health Psychology,SUMMER,2022
+567890120,noah,nelson,cst4321,Software Testing,FALL,2017
+678901235,ava,myers,ict876A,Mobile Application Development,WINTER,2020
+78901234,william,fernandez,bus6543,Operations Management,SUMMER,2016
+890123456,sophia,kinggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg,eng6789,Victorian Literature,WINTERS,2023
+901234567,oliverssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss,sullivan,mat8901,Mathematical Logic,SUMMER,2021
